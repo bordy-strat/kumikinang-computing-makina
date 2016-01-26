@@ -1,0 +1,17 @@
+TODO:
+
+	1. 404 Page - DONE
+	2. Media accreditation step-by-step fix - DONE
+	3. Map Widget Use Address instead of coordinates - AIzaSyCrlbnq7dIJ4z2ufgcJ_bkmnxDR9hhuAyo - DONE
+	4. Set excerpt length - 110 characters - DONE
+	5. Remove carousel when empty on blogs - DONE
+	6. Remove overlay on single posts. - DONE
+7. Carousel responsiveness
+	8. Plug in to hide drafts? - DONE
+	9. Blogs section title ALL CAPS in Homepage - DONE
+	10. Add to CMS homepage external links ( Left-most column) - DONE
+	11. Page for videos - DONE
+	12. Plug in for VCM Video - No Plugin Add embed code to post body use HomeVCMVideo category - DONE
+	13. Missing events posts fix. - DONE
+	14. Events custom field names positions fix - WP arranges them alphabetically - DONE
+	15. Socialmedia plugins - Create widgets via twitter (twitter acct), snapwidget (instagram acct). Save as HomeTwitterAcctFeed/HomeIGAcctFeed category post. - DONE

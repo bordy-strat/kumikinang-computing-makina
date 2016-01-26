@@ -1,0 +1,20 @@
+Updates:
+1. Landing page
+
+     a) PiliPinas pictures - Faster transistions done. Not possible to accomodate varying sizes. Refer to link below on how to create certain posts.
+
+2. Landing page, columns
+
+     a) columns should be the same width - done
+     c) input management for "upcoming events" - Refer to link below on how to create certain posts.
+
+3. Accreditation Tab
+
+     a) clicking on upload button should open an uploader - Done
+     b) date of birth drop down should be properly populated - Done
+     c) Will "please take photo" slave the user's camera? If not, then text should simply be: "Upload photo" with size specs - Yes, the site will be accessing the computer's camera. - Done
+
+4. Top nav - social links have no link - Requesting for the social media accounts to be used.
+5. Footer nav - footer must contain menu - Done.
+
+How to create certain posts: https://docs.google.com/a/stratuscast.com/document/d/12RMKdn7L4QULwWLQaNXDW0y8a65xwLa2ihB4fiw1H9U/edit?usp=sharing
